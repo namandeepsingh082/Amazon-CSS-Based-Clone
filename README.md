@@ -20,9 +20,7 @@ Live Demo: Amazon Clone
 
 Screenshots:
 ![image](https://github.com/namandeepsingh082/Amazon-CSS-Based-Clone/assets/90045704/0e9d040a-98fc-4521-8505-ba557749d91a)
-
 ![image](https://github.com/namandeepsingh082/Amazon-CSS-Based-Clone/assets/90045704/df50b4e0-cbf9-47ad-aa60-81f6cef2952e)
-
 ![image](https://github.com/namandeepsingh082/Amazon-CSS-Based-Clone/assets/90045704/62be964b-afc0-4945-b2ac-60e393abcba7)
 
 
